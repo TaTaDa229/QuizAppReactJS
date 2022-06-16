@@ -1,0 +1,42 @@
+[
+    {
+        "category":	"Sports",
+        "type":	"multiple",
+        "difficulty": "easy",
+        "question": 	"Which country will host the 2020 Summer Olympics?",
+        "correct": "Japan",
+        "incorrect": ["China","Australia",	"Germany"]
+    },
+    {
+        "category":	"Sports",
+        "type":	"multiple",
+        "difficulty": "easy",
+        "question": "What year did the New Orleans Saints win the Super Bowl?",
+        "correct": "2010",
+        "incorrect": ["2008", "2009", "2011"]
+    },
+    {
+        "category":	"Sports",
+        "type":	"multiple",
+        "difficulty": "easy",
+        "question": "When was the first official international game played?",
+        "correct": "1872",
+        "incorrect": ["1880", "1863", "1865"]
+    },
+    {
+        "category":	"Sports",
+        "type":	"multiple",
+        "difficulty": "easy",
+        "question": "&quot;Stadium of Light&quot; is the home stadium for which soccer team?",
+        "correct": "Sunderland FC",
+        "incorrect": ["Barcelona FC", "Paris Saints-Germain","Manchester United"]
+    },
+    {
+        "category":	"Sports",
+        "type":	"multiple",
+        "difficulty": "easy",
+        "question": "Who won the 2017 Formula One World Drivers&#039; Championship?",
+        "correct": "Lewis Hamilton",
+        "incorrect": ["Sebastian Vettel", 	"Nico Rosberg", "Max Verstappen"]
+    }
+]
